@@ -1,1 +1,1 @@
-https://github.com/ne10r/mirea_frontend
+https://github.com/ne10r/ono-tebe-nado-ad
